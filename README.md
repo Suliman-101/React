@@ -1,2 +1,1 @@
-# React
-course react in coursera
+# coding-project-template
